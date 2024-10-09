@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.priyanshu{
+    width: 100vw;
+    margin-top: 20px;
+    height: max-content;
+
+
+}
+
+h1{
+    
+    margin-left: 45px;
+}
+
+.container{
+    margin: 0 auto;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    gap: 30px;
+}
+
+.big-con{
+    background-color: rgb(230, 230, 230);
+    height: 200px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.big-con-1{
+    background-color: #6b59ed;
+    height: 50px;
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    align-items: center;
+
+}
+
+.big-con-1 img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.big-con-1 p{
+    margin-left: 5px;
+    color: white;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.list-items{
+    margin-left: 30px;
+    
+}
+
+.list-items li{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.small-cont{
+    width: 100%;
+    background-color:rgb(232, 232, 232);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+
+}
+
+.small-cont img{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+}
+
+.small-cont h3{
+    margin-left: 20px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+h4{
+    margin-left: 45px;
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+.contact{
+    width: 95%;
+    display: flex;
+    margin: auto;
+    justify-content: ;
+}
+
+.contact h2{
+    color: #6b59ed;
+    font-size: 36px;
+}
+
+.contact input{
+    border-radius: 20px;
+   
+    padding: 20px;
+}
+
+.input-1{
+    width: 700px;
+    margin-left: 120px;
+}
+
+.input-2{
+    width: 310px;
+}
+
+.contact button{
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 20px 20px 0px 20px;
+    background-color: #6b59ed;
+    font-size: 22px;
+    color: white;
+}
